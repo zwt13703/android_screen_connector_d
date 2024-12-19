@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">连点器</string>
+    <string name="quizType">多选题</string>
+    <string name="stem">你喜欢的课程有</string>
+    <string name="optionA">Android</string>
+    <string name="optionB">Java</string>
+    <string name="optionC">C语言</string>
+    <string name="optionD">Python</string>
+    <string name="next">下一题</string>
+
+
+    <string name="username">张三</string>
+    <string name="phone">18639433190</string>
+    <string name="unit">周口理工职业学院</string>
+<!--    -->
+    <string name="unit_address">周口市川汇区太昊路东段6号</string>
+    <string name="accessibility_service_description">用于实现自动点击功能</string>
+</resources>
